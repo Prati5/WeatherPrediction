@@ -24,9 +24,9 @@ temperature, mean atmospheric pressure, maximum temperature, mean humidity, and 
  
  3. Split dataSet into training and testing sets.
 
- 4.Apply the linear regression to the set of data.
+ 4. Apply the linear regression to the set of data.
  
- 5.Visualize the training Test Results.
+ 5. Visualize the training Test Results.
  
  6. Plot the graph.
 
